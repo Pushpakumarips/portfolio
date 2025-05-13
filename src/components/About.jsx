@@ -34,7 +34,7 @@ function About() {
           </div>
         </div>
         <p className="mt-10">
-          "Hi, I'm Pintu, a MERN stack developer from India. I create clean and
+          "Hi, I'm Pushpa, a MERN stack developer from India. I create clean and
           elegant code to build smooth user experiences, adding creativity and
           precision to every project."
         </p>
