@@ -40,10 +40,7 @@ function Skills() {
                   <h2>JavaScript</h2>
                   <span className="text-[.9rem] text-gray-400">Advance</span>
                 </div>
-                <div>
-                  <h2>Typescript</h2>
-                  <span className="text-[.9rem] text-gray-400">Advance</span>
-                </div>
+                
               </div>
             </div>
 
