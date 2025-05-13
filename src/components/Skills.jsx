@@ -131,13 +131,13 @@ function Skills() {
                 </div>
               </div>
               <div className="flex items-start gap-1.5">
-                <i className="bx bx-badge-check text-xl"></i>
-                <div>
-                  <h2>Multer</h2>
+                {/* <i className="bx bx-badge-check text-xl"></i> */}
+                {/* <div>
+                  <h2></h2>
                   <span className="text-[.9rem] text-gray-400">
                     Intermediate
                   </span>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>
